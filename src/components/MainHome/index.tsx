@@ -4,8 +4,8 @@ import Main from "../Main";
 const MainHome: React.FC = () => {
   return (
     <Main>
-      <h1>SLOGAN EM CAIXA ALTA</h1>
-      <p>Nós oferecemos soluções inovadoras para melhorar a sua empresa.</p>
+      <img src="src/assets/logo.png" alt="" />
+      <h1>venha conhece loja de jogos e diverti muito jogos</h1>
       <button className="cta-button">Faça um Orçamento</button>
     </Main>
   );
